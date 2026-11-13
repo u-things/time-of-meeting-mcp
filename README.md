@@ -11,7 +11,7 @@ It has 16 read-only tools. They don’t change anything in your accounts or cont
 You need Gemini CLI and git. Run this in your terminal, not inside a Gemini CLI session:
 
 ```sh
-gemini extensions install https://github.com/fsoldera/time-of-meeting-mcp
+gemini extensions install https://github.com/u-things/time-of-meeting-mcp
 ```
 
 Then start Gemini CLI, or restart it if it’s already open. To check that it worked, type `/extensions list` or `/mcp` in Gemini CLI. `/mcp` shows the server, whether it’s connected, and its tools.
