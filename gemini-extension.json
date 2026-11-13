@@ -1,0 +1,10 @@
+{
+  "name": "time-of-meeting-mcp",
+  "version": "1.0.0",
+  "description": "Fair meeting times across time zones. Separate business-day and bank-day calculations.",
+  "mcpServers": {
+    "time-of-meeting": {
+      "httpUrl": "https://timeofmeeting.com/mcp"
+    }
+  }
+}
