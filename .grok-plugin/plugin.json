@@ -1,0 +1,21 @@
+{
+  "name": "time-of-meeting",
+  "version": "1.0.0",
+  "description": "Fair meeting times across time zones. Separate business-day and bank-day calculations.",
+  "author": {
+    "name": "U-Things",
+    "email": "contact@u-things.com",
+    "url": "https://timeofmeeting.com"
+  },
+  "homepage": "https://timeofmeeting.com/docs",
+  "repository": "https://github.com/fsoldera/time-of-meeting-mcp",
+  "license": "MIT",
+  "keywords": [
+    "time of meeting",
+    "timeofmeeting",
+    "time of meeting mcp",
+    "time of meeting overlap",
+    "time of meeting planner",
+    "time of meeting bank days"
+  ]
+}
