@@ -4,7 +4,7 @@ This extension adds the Time of Meeting MCP server to [Gemini CLI](https://githu
 
 Time of Meeting finds a fair meeting time across two to eight cities, converts local times, and builds planner and calendar links. It also counts business days and bank days, with bank closing days kept separate from public holidays.
 
-It has 17 read-only tools. They don’t change anything in your accounts or contact other services on your behalf. It’s free. You don’t need an account, a login or an API key.
+It has 16 read-only tools. They don’t change anything in your accounts or contact other services on your behalf. It’s free. You don’t need an account, a login or an API key.
 
 ## Install
 
