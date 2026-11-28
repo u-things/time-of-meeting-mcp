@@ -1,6 +1,6 @@
-# Time of Meeting for Gemini CLI
+# Time of Meeting MCP server
 
-This extension adds the Time of Meeting MCP server to [Gemini CLI](https://github.com/google-gemini/gemini-cli). It holds config only, with no code. Gemini CLI connects to the remote server at `https://timeofmeeting.com/mcp` over streamable HTTP.
+This repo connects Gemini CLI and other MCP clients to the Time of Meeting MCP server. It holds config only, with no code. Your client connects to the remote server at `https://timeofmeeting.com/mcp` over streamable HTTP.
 
 Time of Meeting finds a fair meeting time across two to eight cities, converts local times, and builds planner and calendar links. It also counts business days and bank days, with bank closing days kept separate from public holidays.
 
